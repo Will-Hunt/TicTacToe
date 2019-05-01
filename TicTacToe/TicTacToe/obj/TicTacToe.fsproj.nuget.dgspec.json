@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\whwil\\OneDrive\\Documents\\3 Birmingham City\\1b SecondYear\\2 CMP5344 DM&DP\\Assessment\\TicTacToe\\TicTacToe\\TicTacToe.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\whwil\\OneDrive\\Documents\\3 Birmingham City\\1b SecondYear\\2 CMP5344 DM&DP\\Assessment\\TicTacToe\\TicTacToe\\TicTacToe.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\whwil\\OneDrive\\Documents\\3 Birmingham City\\1b SecondYear\\2 CMP5344 DM&DP\\Assessment\\TicTacToe\\TicTacToe\\TicTacToe.fsproj",
+        "projectName": "TicTacToe",
+        "projectPath": "C:\\Users\\whwil\\OneDrive\\Documents\\3 Birmingham City\\1b SecondYear\\2 CMP5344 DM&DP\\Assessment\\TicTacToe\\TicTacToe\\TicTacToe.fsproj",
+        "packagesPath": "C:\\Users\\whwil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\whwil\\OneDrive\\Documents\\3 Birmingham City\\1b SecondYear\\2 CMP5344 DM&DP\\Assessment\\TicTacToe\\TicTacToe\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\whwil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

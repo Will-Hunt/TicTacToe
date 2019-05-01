@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\whwil\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\whwil\\OneDrive\\Documents\\3 Birmingham City\\1b SecondYear\\2 CMP5344 DM&DP\\Assessment\\TicTacToe\\TicTacToe\\TicTacToe.fsproj",
+      "projectName": "TicTacToe",
+      "projectPath": "C:\\Users\\whwil\\OneDrive\\Documents\\3 Birmingham City\\1b SecondYear\\2 CMP5344 DM&DP\\Assessment\\TicTacToe\\TicTacToe\\TicTacToe.fsproj",
+      "packagesPath": "C:\\Users\\whwil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\whwil\\OneDrive\\Documents\\3 Birmingham City\\1b SecondYear\\2 CMP5344 DM&DP\\Assessment\\TicTacToe\\TicTacToe\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\whwil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
